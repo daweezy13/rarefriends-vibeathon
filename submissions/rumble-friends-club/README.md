@@ -4,7 +4,7 @@ Your Rare Friend is the fighter: read each challenger, pick a style, and wager s
 
 **Builder:** [@0xdgw](https://x.com/0xdgw) · GitHub [@daweezy13](https://github.com/daweezy13) · **Category:** Economy Potential · **Stack:** Vite + TypeScript, Netlify Functions + Blobs; FriendSDK v0.1.2 used as a library (wallet, owned, identity, sprites), not the SDK game runtime
 
-**Play:** **https://rumble-friends-club.netlify.app** · [Source](https://github.com/daweezy13/rumble-friends-club/tree/98458e175a3050e69d7dcafe79b3c735756611ca) · [Full rules and odds](https://github.com/daweezy13/rumble-friends-club/blob/98458e175a3050e69d7dcafe79b3c735756611ca/README.md#rules-and-odds-exactly)
+**Play:** **https://rumble-friends-club.netlify.app** · [Source](https://github.com/daweezy13/rumble-friends-club/tree/4f1173c2ee93543e739cdc7d68b6af717602980f) · [Full rules and odds](https://github.com/daweezy13/rumble-friends-club/blob/4f1173c2ee93543e739cdc7d68b6af717602980f/README.md#rules-and-odds-exactly)
 
 ## Run it
 
@@ -22,7 +22,7 @@ npm run dev       # http://127.0.0.1:5180
 
 ## Play
 
-Walk your Friend through level B2 of a parking garage (WASD, arrows or tap), give the doorman the password on the landing sign (`rumble club`), and pick a wager. Each challenger shows what they will throw and your chance in each style: Brawler beats Grappler beats Boxer beats Brawler. Pick one, watch the fight (skippable), then walk away with your winnings or fight on; one loss ends the night. Between nights, train one style at the weekly camp, dress your fighter in kit, or leave a bet in the garage for another player to take. Sound, music and reduced-motion toggles; keyboard and touch; works on phones.
+Walk your Friend through level B2 of a parking garage (WASD, arrows or tap), give the doorman the password (the first regular you pass tells you; the doorman drops a hint after three wrong tries), and pick a wager. Each challenger shows what they will throw and your chance in each style: Brawler beats Grappler beats Boxer beats Brawler. Pick one, watch the fight (skippable), then walk away with your winnings or fight on; one loss ends the night. Between nights, train one style at the weekly camp, dress your fighter in kit, or leave a bet in the garage for another player to take. Sound, music and reduced-motion toggles; keyboard and touch; works on phones.
 
 ## Rules, costs and odds
 
