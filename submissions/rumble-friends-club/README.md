@@ -4,7 +4,7 @@ Your Rare Friend is the fighter: read each challenger, pick a style, and wager s
 
 **Builder:** [@0xdgw](https://x.com/0xdgw) · GitHub [@daweezy13](https://github.com/daweezy13) · **Category:** Economy Potential · **Stack:** Vite + TypeScript, Netlify Functions + Blobs; FriendSDK v0.1.2 used as a library (wallet, owned, identity, sprites), not the SDK game runtime
 
-**Play:** **https://rumble-friends-club.netlify.app** · [Source](https://github.com/daweezy13/rumble-friends-club/tree/4f1173c2ee93543e739cdc7d68b6af717602980f) · [Full rules and odds](https://github.com/daweezy13/rumble-friends-club/blob/4f1173c2ee93543e739cdc7d68b6af717602980f/README.md#rules-and-odds-exactly)
+**Play:** **https://rumble-friends-club.netlify.app** · [Promo video](https://x.com/0xdgw/status/2104594732185948270) · [Source](https://github.com/daweezy13/rumble-friends-club/tree/4f1173c2ee93543e739cdc7d68b6af717602980f) · [Full rules and odds](https://github.com/daweezy13/rumble-friends-club/blob/4f1173c2ee93543e739cdc7d68b6af717602980f/README.md#rules-and-odds-exactly)
 
 ## Run it
 
